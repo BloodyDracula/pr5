@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item_log">Авторизация</string>
+    <string name="item_notif">Уведомления</string>
+    <string name="item_exit">Выйти</string>
+    <string name="punkt">Выберите пункт меню</string>
+</resources>

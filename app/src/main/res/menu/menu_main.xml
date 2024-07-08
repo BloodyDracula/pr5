@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/log_btn"
+        android:title="@string/item_log"
+        app:showAsAction="never"
+        />
+    <item
+    android:id="@+id/notif_btn"
+    android:title="@string/item_notif"
+    app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/exit_btn"
+        android:title="@string/item_exit"
+        app:showAsAction="never"
+        />
+
+</menu>
